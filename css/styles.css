@@ -229,6 +229,10 @@ header{
     overflow: hidden;
 }
 
+.menu-div{
+    display: flex; 
+}
+
 .benefits-list {
     display: flex;
     gap: 24px;
