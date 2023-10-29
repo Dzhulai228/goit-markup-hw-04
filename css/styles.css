@@ -344,8 +344,19 @@ header{
     display: flex; 
     align-items: center;
     justify-content: center;
-    
+}
 
+.link-social-network:hover{
+    background-color: #404bbf; 
+}
+
+.link-social-network:active{
+    background-color: #404bbf;
+}
+
+.svg-social-network{
+    fill: #f4f4fd;
+    
 }
 
 /* ==========section-four============ */
