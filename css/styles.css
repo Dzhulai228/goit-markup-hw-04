@@ -346,8 +346,11 @@ header{
     justify-content: center;
 }
 
-.link-social-network:hover,
-.link-social-network:focus{
+.link-social-network:hover {
+    background-color: #404bbf; 
+}
+
+.link-social-network:focus {
     background-color: #404bbf; 
 }
 
