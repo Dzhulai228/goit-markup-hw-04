@@ -347,7 +347,7 @@ header{
 }
 
 .link-social-network:hover,
-.link-social-network:active{
+.link-social-network:focus{
     background-color: #404bbf; 
 }
 
