@@ -108,6 +108,10 @@ header{
     margin-right: 76px;
 }
 
+.link{
+    text-decoration: none;
+}
+
 .header-adress{
     margin-left: auto;
 }
