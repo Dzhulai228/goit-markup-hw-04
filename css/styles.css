@@ -1,3 +1,21 @@
+/* ====================Кольори===================== */
+
+:root{
+    --iris: #4d5ae5;
+    --ocean: #404BBF;
+    --navy-blue: #2E2F42;
+    --green: #31D0AA;
+    --slate: #434455;
+    --light-slate: #8E8F99;
+    --cornflower: #E7E9FC;
+    --cloud: #F4F4FD;
+    --nb-modal: #2E2F4266;
+    --grey: #2E2F42B2;
+    --white: #FFFFFF;
+    --dairy: #FCFCFC;
+}
+
+/* ====================Обнулення===================== */
 
 h1,
 h2,
@@ -349,7 +367,7 @@ header{
 .link-social-network:hover,
 .link-social-network:focus,
 .link-social-network:active {
-    background-color: #404bbf; 
+    background-color: var(--ocean);
 }
 
 .svg-social-network{
