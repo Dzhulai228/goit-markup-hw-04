@@ -484,6 +484,11 @@ header{
 .div-footer{
     display: flex;
     align-items: baseline;
+
+}
+
+.div-content{
+    margin-right: 120px;
     
 }
 
