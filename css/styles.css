@@ -480,6 +480,10 @@ header{
 /* ========== footer ============ */
 /* ========== footer ============ */
 
+.div-test{
+    display: flex;
+}
+
 .footer{
     background-color: #2e2f42;
 
