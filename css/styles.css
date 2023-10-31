@@ -89,7 +89,7 @@ header{
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
+
   }
 
   nav{
@@ -481,9 +481,11 @@ header{
 /* ========== footer ============ */
 /* ========== footer ============ */
 
-/* .div-test{
+.div-footer{
     display: flex;
-} */
+    align-items: baseline;
+    
+}
 
 .footer{
     background-color: #2e2f42;
