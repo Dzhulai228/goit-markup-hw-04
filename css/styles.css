@@ -419,7 +419,7 @@ header{
       0px 2px 1px rgba(46, 47, 66, 0.08); 
 }
 
-.section-four-list:hover .overlay p{
+.section-four-list:hover .overlay{
     transform: translateY(0%);
 }
 
